@@ -1,5 +1,6 @@
 # Obsidian-Web-Browser
 
+
 ![Screenshot from 2024-10-05 15-31-48](https://github.com/user-attachments/assets/745eaa6c-7df5-47f3-9777-eea44d8dd0cc)
 
 ![6947babb6efa6e72d2d02d1e8c7cd937](https://github.com/user-attachments/assets/c52889cd-4f91-450b-8f4d-66381c274b22)
