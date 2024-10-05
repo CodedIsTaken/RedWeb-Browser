@@ -16,9 +16,9 @@ Works With Youtube, Reddit, Facebook, Etc...
 
 Obsidian Requires You To Have These Dependencies Installed, Otherwise It Will Not Work.
 
-    PyGObject
+- PyGObject
 
-    WebKit2GTK
+- WebKit2GTK
 
 To Install These Dependencies On Debian/Ubuntu And Derivatives Of Them Use The Following Commands:
 
@@ -35,3 +35,11 @@ sudo dnf install python3-gobject gtk3 webkit2gtk3 python3-cairo / sudo zypper in
 If You're Distribution Isn't These Or A Derivative Of These, Some Research Might Be Needed In Order To Install These Dependencies For Your Distribution.
 
 To Run This Application Download The .py File And Open It In A Python Debugger Such As Visual Studio Code's Python Debugger Or Another Debugger.
+
+Here Are Some GNOME Extenestions Or Tweaks That Could Improve Your Experience
+
+- Adw-GTK3
+
+- Rounded Window Corners / Rounded Window Corners Reborn
+
+I'm Always Open To New Suggestions Or Advice, If So, Please Leave Them On Reddit And The Issues Tab I'll Look Into it Soon.
