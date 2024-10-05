@@ -5,7 +5,7 @@ from gi.repository import Gtk, WebKit2
 
 class BrowserWindow(Gtk.Window):
     def __init__(self):
-        Gtk.Window.__init__(self, title="Obsidian Web Browser")
+        Gtk.Window.__init__(self, title="RedWeb Browser")
         self.set_default_size(800, 600)
 
         # Create main vertical box
