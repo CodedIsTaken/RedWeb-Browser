@@ -31,3 +31,5 @@ Sudo dnf update / sudo zypper update (If You Haven't Recently).
 sudo dnf install python3-gobject gtk3 webkit2gtk3 python3-cairo / sudo zypper install python3-gobject gtk3 webkit2gtk3 python3-cairo
 
 If You're Distribution Isn't These Or A Dervative Of These, Some Research Might Be Needed In Order To Install These Dependiences For Your Distribution.
+
+To Run This Run This Application Download The .py File And Run It In A Python Debugger Such As Visual Studio Code's Python Debugger Or Another Debugger
