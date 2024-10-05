@@ -4,7 +4,7 @@
 
 ![6947babb6efa6e72d2d02d1e8c7cd937](https://github.com/user-attachments/assets/c52889cd-4f91-450b-8f4d-66381c274b22)
 
-You Are Currently On The Github Page For Obsidian, A Fast, And Lightweight GTK Web Browser That's Designed To Be Lightweight And Very Small In File Size, Written In Python. 
+A Fast. Open-Source, And Lightweight GTK Web Browser That's Designed To Be Lightweight And Very Small In File Size, Written In Python.  
 
 DuckDuckGo, This Is Your Default Search Engine, If You Want Another Search Engine, Go Into The Source Code And Change The URL From (DuckDuckGo.com To A More Preferred Search Engine Such As Google.com Or bing.com).
 
