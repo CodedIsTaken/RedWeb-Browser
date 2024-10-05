@@ -1,12 +1,14 @@
-# Obsidian-Web-Browser
+# RedWeb Browser
 
-![Screenshot from 2024-10-05 15-31-48](https://github.com/user-attachments/assets/745eaa6c-7df5-47f3-9777-eea44d8dd0cc)
+![Screenshot from 2024-10-05 19-10-09](https://github.com/user-attachments/assets/2e5f8ddb-1174-41a9-914e-fdb0c7940468)
 
-![6947babb6efa6e72d2d02d1e8c7cd937](https://github.com/user-attachments/assets/c52889cd-4f91-450b-8f4d-66381c274b22)
+![Screenshot from 2024-10-05 19-09-56](https://github.com/user-attachments/assets/78537eee-34e3-4e6d-9a99-43629210239c)
+
+![RedWeb](https://github.com/user-attachments/assets/8a329577-2674-44f8-a63b-a9c7bf28a307)
 
 ----------------------
 
-You Are Currently On The Github Repository For The Obsidian Web Browser,  A Fast. Open-Source, And Lightweight GTK Web Browser That's Designed To Be Lightweight And Very Small In File Size, Written In Python.
+You Are Currently On The Github Repository For The RedWeb Browser, A Fast. Open-Source, And Lightweight GTK Web Browser That's Designed To Be Lightweight And Very Small In File Size, Written In Python.
 
 DuckDuckGo, This Is Your Default Search Engine, If You Want Another Search Engine, Go Into The Source Code And Change The URL From (DuckDuckGo.com To A More Preferred Search Engine Such As Google.com Or bing.com).
 
@@ -38,8 +40,8 @@ To Run This Application Download The .py File And Open It In A Python Debugger S
 
 Here Are Some GNOME Extenestions Or Tweaks That Could Improve Your Experience
 
-- Adw-GTK3
+- Adw-Gtk3.
 
-- Rounded Window Corners / Rounded Window Corners Reborn
+- Rounded Window Corners / Rounded Window Corners Reborn.
 
-I'm Always Open To New Suggestions Or Advice, If So, Please Leave Them On Reddit And The Issues Tab I'll Look Into it Soon.
+I'm Always Open To New Suggestions Or Advice, If So, Please Leave Them On The Issues Tab I'll Look Into It Very Soon.
