@@ -6,15 +6,17 @@
 
 ![RedWeb](https://github.com/user-attachments/assets/8a329577-2674-44f8-a63b-a9c7bf28a307)
 
+(Thanks To The GNOME Project For The Epiphany Logo!).
+
 ----------------------
 
-You Are Currently On The Github Repository For The RedWeb Browser, A Fast. Open-Source, And Lightweight GTK Web Browser That's Designed To Be Lightweight And Very Small In File Size, Written In Python.
+You Are Currently On The Github Repository For The RedWeb Browser, A Open-Source, WebKit Wrapper With A Low File Size Focusing On The Bare Minimum As A WebKit Wrapper, For Older Devices, Written In Python.
 
 DuckDuckGo, This Is Your Default Search Engine, If You Want Another Search Engine, Go Into The Source Code And Change The URL From (DuckDuckGo.com To A More Preferred Search Engine Such As Google.com Or bing.com).
 
 The Only Thing You Can Do Is Go Back Or Go Foward And Reset The Page.
 
-Works With Youtube, Reddit, Facebook, Etc...
+Works With Youtube, Reddit, Facebook And Many Other Sites, As These Sites Recognize The RedWeb Browser As Safari SoDespite It Not Being Safari, There's A Massive Amount Of Sites That Support It Out Of The Gate.
 
 Obsidian Requires You To Have These Dependencies Installed, Otherwise It Will Not Work.
 
